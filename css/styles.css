@@ -19,7 +19,8 @@ a:active {color: black;}
 
 .contact-message { width: 40% ; margin: 40px auto;}
  
-.computer-img { width: 25%; float: left; margin-right: 30px;}
+.computer-img-left  { width: 25%; float: left; margin-right: 30px;}
+.computer-img-right { width: 25%; float: right; margin-left: 30px;}
 
 .chillies-img { width: 25%; float: right; margin-left: 30px;}
 
